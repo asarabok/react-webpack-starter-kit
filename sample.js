@@ -6,7 +6,7 @@ var SampleComponent = React.createClass({
 	{
 		return ( 
 			<h1 className="header">
-			Hello from samples156
+			Hello from sample file
 			</h1>
 		)
 	}
