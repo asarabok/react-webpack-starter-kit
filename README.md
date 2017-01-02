@@ -1,1 +1,1 @@
-"# react-webpack-starter-kit" 
+<h1>React Native Starter kit</h1>
